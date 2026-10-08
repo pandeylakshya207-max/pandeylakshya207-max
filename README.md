@@ -16,8 +16,6 @@ Currently: B.Tech CSE (AI & ML) @ Dayananda Sagar University, Bengaluru (2025–
 
 **[memdb](https://github.com/pandeylakshya207-max/memdb)** (Go). A relational database engine: B-Tree and hash indexes, a page cache, a write-ahead log with crash recovery, an iterator-model query engine, a SQL parser and a TCP server.
 
-**[lumen](https://github.com/pandeylakshya207-max/lumen)** (Rust). A small statically typed language with a lexer, parser and type checker, and two backends, a bytecode VM and a tree-walking interpreter, that run the same programs.
-
 ### Machine learning systems
 
 **[flux](https://github.com/pandeylakshya207-max/flux)** (Python, NumPy). A deep learning framework with scalar and tensor autograd, convolution via im2col, optimizers and a hand-written ONNX exporter. Trains an MLP to 97.3% on MNIST and a CNN to 77.2% on CIFAR-10.
@@ -57,9 +55,9 @@ AI Research Contributor under Prof. Manolis Kellis. Building Education Vertical 
 
 ## Stack
 
-**Languages:** Go, Rust, Python, C++, TypeScript
+**Languages:** Go, Python, C++, TypeScript
 
-**Systems:** consensus, storage engines, query execution, bytecode VMs, serving gateways
+**Systems:** consensus, storage engines, query execution, serving gateways
 
 **Machine learning:** autograd and training, LLM inference and routing, evaluation
 
