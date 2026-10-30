@@ -34,6 +34,7 @@ Also: [EventSphere](https://github.com/pandeylakshya207-max/EventSphere), [ai-mo
 
 Merged:
 
+- [Chromium CL 8505517](https://chromium-review.googlesource.com/c/chromium/src/+/8505517): fixed a dangling `raw_ptr` in the Windows Generic Sensor reader tests and removed its `DanglingUntriaged` annotation
 - [keras-team/keras #23447](https://github.com/keras-team/keras/pull/23447): test coverage for the `tf_idf` output mode of `StringLookup`
 - [pymc-devs/pymc #8393](https://github.com/pymc-devs/pymc/pull/8393): expanded the `RandomWalk` docstring
 - [terrierteam/pyterrier_rag #70](https://github.com/terrierteam/pyterrier_rag/pull/70): added the AICL adaptive context selector
@@ -41,17 +42,17 @@ Merged:
 Open:
 
 - [microsoft/vscode #336815](https://github.com/microsoft/vscode/pull/336815): preserve the replace string when the match has no cased characters
-- [kubernetes/perf-tests #4427](https://github.com/kubernetes/perf-tests/pull/4427) and [#4428](https://github.com/kubernetes/perf-tests/pull/4428): unit tests for two clusterloader2 packages
 - [pytorch/pytorch #194438](https://github.com/pytorch/pytorch/pull/194438): documentation of the adaptive pooling bin computation
 - [grpc/grpc-go #9386](https://github.com/grpc/grpc-go/pull/9386): a README for the benchmark directory
-- [mozilla/mozdownload #743](https://github.com/mozilla/mozdownload/pull/743): raise `NotSupportedError` for invalid application and platform combinations
+- [mozilla/mozdownload #743](https://github.com/mozilla/mozdownload/pull/743): deprecate the `fenix` application in favour of `firefox` with Android platforms
+- [goharbor/harbor-cli #1120](https://github.com/goharbor/harbor-cli/pull/1120): render nil fields as empty and format storage sizes in `harbor info`
 
 ---
 
 ## Research
 
-**MIT CSAIL — KellisLab / Mantis platform** (2025–present)  
-AI Research Contributor under Prof. Manolis Kellis. Building Education Vertical applications on the Mantis platform.
+**MIT CSAIL — KellisLab / Mantis platform** (2026–present)  
+AI Research Contributor under Prof. Manolis Kellis (Class S cohort). 10 pull requests merged into the Mantis production codebase; building Education Vertical applications on the Mantis platform.
 
 ---
 
